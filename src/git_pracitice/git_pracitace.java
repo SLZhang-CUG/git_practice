@@ -1,6 +1,6 @@
-package git_pritice;
+package git_pracitice;
 
-public class git_pritace {
+public class git_pracitace {
 	public static void main(String[] args){
 		System.out.println("\n");
 	}
